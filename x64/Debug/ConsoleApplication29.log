@@ -1,0 +1,4 @@
+﻿  ConsoleApplication29.cpp
+C:\Users\Взрослая академия\Documents\Anastasiia\ConsoleApplication29\ConsoleApplication29\ConsoleApplication29.cpp(77,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Взрослая академия\Documents\Anastasiia\ConsoleApplication29\ConsoleApplication29\ConsoleApplication29.cpp(78,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication29.vcxproj -> C:\Users\Взрослая академия\Documents\Anastasiia\ConsoleApplication29\x64\Debug\ConsoleApplication29.exe
